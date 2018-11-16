@@ -1,0 +1,10 @@
+1 new repository
+2 仓库名字 ---》不能重复
+3 仓库的描述
+4 ignore--python
+5 licinece--apache
+6 clone
+7 终端中 mkdir day10   cd day10   git clone xxxxxxxxxxxx
+8 pycharm打开
+9 file ---》settings-->version control--->password-->用户名子 密码  测试
+10 观察pycharm中右上角和左下角的变化
